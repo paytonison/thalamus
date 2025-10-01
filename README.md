@@ -1,1 +1,1 @@
-Hi, there.
+Asari Brainstem proposes a conversation-level control plane for LLMs that enables mid-utterance expert switching while preserving persona, safety, and task context. We introduce two mechanisms—Multi-Granular Gating (MGG) and On-the-Fly Expert Switching (OFES)—plus a Session Working Memory (SWM) schema that carries lightweight, typed state across experts. The release includes a pdflatex-safe manuscript and an evaluation spec (MIDAS) to benchmark switch latency, expert appropriateness, persona consistency, and safety.
